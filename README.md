@@ -4,9 +4,14 @@ Build. Break. Learn. Repeat.
 
 An open laboratory for building small, reproducible Physical AI systems.
 
+Repository description:
+
+> Public execution lab for small, reproducible Physical AI experiments connected
+> to the After the Spill research program.
+
 ## Current Status
 
-**Planning**
+**Planning** as of 2026-08-05.
 
 Builder Lab is in Day 0 setup. No hardware result, robot demo, or experimental
 claim is published yet.
@@ -85,6 +90,7 @@ private lab assets, and unpublished paper claims stay out.
 ## Related Workspaces
 
 - Research program: [After the Spill / Research OS](https://github.com/higuseonhye/research-os)
+- Public portfolio: [higuseonhye.github.io/research-os](https://higuseonhye.github.io/research-os/)
 - Product-facing exploration: Mismatch Lab
 
 ## License
