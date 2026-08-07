@@ -12,15 +12,15 @@
 
 - [x] Freeze Paper 003 claims separately from Builder Lab
 - [x] Define the exclusion rule for hardware selection
-- [ ] **Write `Why Human Drivers?` — the purchase gate**
+- [ ] Check candidate hardware against the exclusion rule
 - [ ] Draft EXP-001 target-shift protocol
 - [ ] Define minimum telemetry schema for physical runs
 - [ ] Decide ROS 2 setup path
 - [ ] Decide Isaac-to-hardware comparison boundary
 
-"Choose first tabletop hardware target" was removed on 2026-08-07. Choosing
-hardware before the justification exists is how the previous week's direction
-drifted — the constraint picked the target instead of the question.
+"Choose first tabletop hardware target" was reworded on 2026-08-07. Picking a
+target before a rule existed is how the previous direction drifted — the
+constraint chose the target instead of the question.
 
 ## Next 30 Days
 

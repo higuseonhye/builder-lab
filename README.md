@@ -37,8 +37,7 @@ This deliberately excludes purpose-built robot platforms even when they are
 cheaper and better documented. Selection notes and what the rule rejected are in
 [`hardware/README.md`](hardware/README.md).
 
-Hardware selection is gated on a written justification, not on price. The gate
-is open.
+No candidate has been checked against the rule yet, so no hardware is selected.
 
 ## Mission
 

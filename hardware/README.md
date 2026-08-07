@@ -31,12 +31,17 @@ asset. Both were considered and both fail this line.
 
 **No hardware has been selected, and none is purchased.**
 
-The gate is a written justification, not a price or a measurement. It asks four
-questions: why the operator position specifically, why an existing vehicle, why
-now, and what this is not.
+The exclusion rule was defined today. No candidate has been checked against it
+yet, so there is nothing to select from.
 
-Costs have been surveyed so the justification is written against real numbers.
+Costs have been surveyed so that any future comparison starts from real numbers.
 Surveying a price is not a decision to spend.
+
+### Under consideration
+
+A written justification as a purchase gate — why the operator position
+specifically, why an existing machine, why now, and what this is not. Proposed
+2026-08-07, not adopted.
 
 ### Recorded constraint
 
