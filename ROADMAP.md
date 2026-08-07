@@ -10,16 +10,21 @@
 
 ## Next 7 Days
 
-- [ ] Freeze Paper 003 claims separately from Builder Lab
-- [ ] Choose first tabletop hardware target
+- [x] Freeze Paper 003 claims separately from Builder Lab
+- [x] Define the exclusion rule for hardware selection
+- [ ] **Write `Why Human Drivers?` — the purchase gate**
 - [ ] Draft EXP-001 target-shift protocol
 - [ ] Define minimum telemetry schema for physical runs
 - [ ] Decide ROS 2 setup path
 - [ ] Decide Isaac-to-hardware comparison boundary
 
+"Choose first tabletop hardware target" was removed on 2026-08-07. Choosing
+hardware before the justification exists is how the previous week's direction
+drifted — the constraint picked the target instead of the question.
+
 ## Next 30 Days
 
-- [ ] Acquire or assemble first hardware setup
+- [ ] Acquire or assemble first hardware setup **(blocked on the purchase gate)**
 - [ ] Run first motor/control smoke test
 - [ ] Record first reproducible movement artifact
 - [ ] Publish EXP-001 protocol before the first real run

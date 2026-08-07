@@ -11,10 +11,34 @@ Repository description:
 
 ## Current Status
 
-**Planning** as of 2026-08-05.
+**Planning** as of 2026-08-07.
 
 Builder Lab is in Day 0 setup. No hardware result, robot demo, or experimental
-claim is published yet.
+claim is published yet. No hardware has been purchased.
+
+## Direction
+
+The physical track is organized around one invariant:
+
+> **AI occupies the human operator position and uses human controls on machines
+> that already exist.**
+
+Existing machines are built for human hands and feet. Their controls have slop,
+carry no specification, and cannot be modified. That makes them a source of
+mismatch that no purpose-built platform reproduces, which is what connects this
+track to the research program.
+
+The rule that follows is an exclusion, not an aspiration:
+
+> The machine must already exist, must have been built for a human operator, and
+> must be used **without modification**.
+
+This deliberately excludes purpose-built robot platforms even when they are
+cheaper and better documented. Selection notes and what the rule rejected are in
+[`hardware/README.md`](hardware/README.md).
+
+Hardware selection is gated on a written justification, not on price. The gate
+is open.
 
 ## Mission
 
@@ -48,7 +72,8 @@ The first goal is simple:
 
 | Track | Purpose | Status |
 | --- | --- | --- |
-| Hardware | Select the first affordable tabletop robot setup | Planning |
+| Human Operator | Operate an unmodified human control and decide what its deviation means | Planning |
+| Hardware | Select the first setup that satisfies the exclusion rule | Gated |
 | EXP-001 Target Shift | Test recovery after a target moves unexpectedly | Planning |
 | ROS 2 | Prepare a minimal control and logging stack | Planning |
 | Isaac Bridge | Keep simulation and physical experiments comparable | Planning |
@@ -64,6 +89,7 @@ Experiments are numbered and kept small.
 | EXP-002 | Occlusion | What changes when part of the scene becomes hidden? | Backlog |
 | EXP-003 | Human Intervention | When should a human interruption become evidence? | Backlog |
 | EXP-004 | Recovery Timing | How late is too late to intervene? | Backlog |
+| EXP-005 | Unspecified Control | When a human control responds differently each time, is the deviation noise, disturbance, or model inadequacy? | Backlog |
 
 ## Repository Layout
 
